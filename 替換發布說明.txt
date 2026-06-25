@@ -1,0 +1,38 @@
+T-LO 官方網站替換發布說明
+
+我已經把原本的「T-LO 潮流盲盒」官網整理成「T-LO 潮流卡牌」審核友善版，重點如下：
+
+一、已新增頁面
+1. pricing.html：商品與收費標準
+2. notice.html：遊戲須知與消費聲明
+3. probability.html：機率公告
+4. refund.html：退款政策
+
+二、已修改頁面
+1. index.html：首頁改成虛擬卡牌收藏遊戲定位，新增審核與消費保障入口。
+2. about.html：遊戲介紹避開高風險「盲盒」主定位，改成虛擬角色卡牌收藏。
+3. terms.html：補上虛擬內容、付費內容、隨機取得機制、禁止站外交易與非博弈聲明。
+4. privacy.html：補上金流、訂單、第三方廣告與資料使用說明。
+5. rewarded-ads.html：補上不得誘導點擊廣告、獎勵僅限遊戲內使用等聲明。
+6. contact.html：補上付款、退款、入帳異常回報需要提供的資料。
+
+三、建議送審網址
+商店首頁：https://xiaxguang.github.io/
+商品頁：https://xiaxguang.github.io/pricing.html
+遊戲須知：https://xiaxguang.github.io/notice.html
+機率公告：https://xiaxguang.github.io/probability.html
+退款政策：https://xiaxguang.github.io/refund.html
+使用條款：https://xiaxguang.github.io/terms.html
+隱私權政策：https://xiaxguang.github.io/privacy.html
+聯絡方式：https://xiaxguang.github.io/contact.html
+
+四、發布方式
+把壓縮檔解壓縮後，將裡面的所有檔案與 assets 資料夾，上傳並覆蓋到 xiaxguang.github.io 這個 GitHub Pages repo 的根目錄。
+
+五、送審前必檢
+1. probability.html 的機率一定要跟遊戲內實際抽卡機率一致。
+2. pricing.html 的價格一定要跟實際收款頁一致。
+3. 如果目前還沒有正式線上付款，送審時可以先用 pricing.html 當商品與收費說明頁。
+4. 審核期間不要在公開頁面寫「抽到 SR 送禮物」、「集滿送 5000」、「現金回饋」、「保證回本」、「實體獎品兌換」等內容。
+
+提醒：這些內容可以降低被誤判成博弈、現金抽獎或高風險交易的機率，但不能保證任何金流或廣告平台一定審核通過。
