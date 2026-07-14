@@ -5,3 +5,4 @@ Disallow: /api/
 Disallow: /private/
 
 Sitemap: https://xiaxguang.github.io/sitemap.xml
+Sitemap: https://xiaxguang.github.io/homepage/sitemap.xml
